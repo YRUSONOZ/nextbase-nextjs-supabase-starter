@@ -102,7 +102,7 @@ export const ExternalNavigation = () => {
         </Link>
         <Link
           className="text-sm hidden lg:block font-medium hover:underline underline-offset-4"
-          href="#"
+          href="www.google.com"
         >
           About
         </Link>
