@@ -15,7 +15,7 @@ export default function Component() {
               alt="Hero"
               className="mx-auto aspect-video overflow-hidden rounded-xl object-cover sm:w-full lg:order-last lg:aspect-square"
               height="550"
-              src="https://imageio.forbes.com/specials-images/imageserve/65258a15bb0f1e44bfaf1887/Social-media-Social--media--Marketing--Thailand--Social-Media--Engagement--Post--/960x0.jpg?format=jpg&width=1440"
+              src="https://ibb.co/Vmg3SkR"
               width="550"
             />
             <div className="flex flex-col justify-center space-y-4">
