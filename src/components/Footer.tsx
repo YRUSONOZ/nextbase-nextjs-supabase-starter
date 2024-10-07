@@ -22,12 +22,12 @@ const Footer = () => {
                 alt="NextBase Logo"
               />
               <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
-                Acme
+                Social Gather
               </span>
             </a>
 
             <p className="mt-4 mb-8 text-gray-600 dark:text-gray-400">
-              Acme Inc. 123 Acme Street, London, UK, SW1A 1AA
+              Social Gather Inc. 123 Acme Street, London, UK, SW1A 1AA
             </p>
             <div className="mt-4 space-x-4 pt-4 border-t dark:border-slate-700 ">
               <a
